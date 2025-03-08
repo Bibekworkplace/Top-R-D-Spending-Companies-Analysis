@@ -1,4 +1,4 @@
-# Top-R&D-Spending-Companies-Analysis
+# Top Companies R&D Spending Analysis
 Help ABC's management team to benchmark R&D spending.
 
 
